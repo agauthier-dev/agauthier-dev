@@ -3,7 +3,7 @@
 
 ---
 
-I'm a 3rd-year engineering student at INSA Toulouse, specializing in **Electronics, Signal Processing & Automatic Control (AE)**. I enjoy building things from scratch — whether that's implementing signal processing algorithms, writing embedded C++ or designing control systems.
+I'm a 2nd-year engineering student at INSA Toulouse, specializing in **Electronics, Signal Processing & Automatic Control (AE)**. I enjoy building things from scratch — whether that's implementing signal processing algorithms, writing embedded C++ or designing control systems.
 
 ## 🛠 Tech stack
 
